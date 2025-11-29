@@ -1,0 +1,19 @@
+body {
+    background:#eee;
+    font-family:Arial;
+    padding:20px;
+}
+a {
+    color:black;
+}
+input {
+    padding:5px;
+    border:1px solid #000;
+}
+button {
+    padding:5px 10px;
+    background:#ccc;
+}
+p {
+    font-size:30px;
+}
